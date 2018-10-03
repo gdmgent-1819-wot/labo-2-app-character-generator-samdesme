@@ -34,6 +34,7 @@ for(let i = 0; i < pixels.length; i++) {
         break;
         case "black":
         ArrPixel[i] = [0, 0, 0];
+        break
         default: 
         ArrPixel[i] = [255, 255, 255];
     }
