@@ -1,0 +1,75 @@
+
+	#art {
+	    display: table;
+	    border-spacing: 1px;
+    	background-color: black;
+			border: 5px solid black;
+			margin: 0 auto
+	}
+	
+	#colorSelect{
+		width: 236px;
+		margin: 10px auto 30px auto
+
+	}
+  
+  .row {
+	  display: table-row;
+	}
+	
+  .pixel {
+    display: table-cell;
+    background-color: white;
+    width: 40px;
+		height: 40px;
+	}
+	
+	.pen {
+	  display: inline-block;
+	  width: 40px;
+		height: 40px;
+		border: 2px solid black;
+	}
+
+	h1, p, a{
+		font-family: 'Futura', sans-serif;
+		font-weight: 100;
+	}
+	
+ #title{
+	 padding: 40px 0;
+	color: #0e82af;
+	text-align: center
+ }
+
+ #choose{
+	text-align: center
+ }
+
+	#btnSave{
+		display: block;
+		width: 100px;
+		margin: 30px auto;
+		padding: 10 0;
+		border-radius: 20px;
+		text-align: center;
+		background: #0e82af;
+		text-decoration: none;
+		color: #ffffff
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  
+    
+  
